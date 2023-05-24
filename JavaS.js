@@ -1,16 +1,13 @@
-// var valor = confirm("Vamos juntos aprender a programar em JS?");
-// if (valor == true ) {
-//     alert("parabens, vamos lá!!!");
+// var email = prompt("Digite seu E-mail", "");
+// if (email == false) {
+//     alert("Por Favor digite seu E-mail");
 // } else {
-//     alert("Opção errada, aperte F5 para recarregar a página");
+//     alert("O E-mail " + email + "  foi coletado com sucesso");
 // }
+let prova = parseFloat(prompt("Qual é a nota da prova?"));
+let trabalho = parseFloat(prompt("Qual é a nota do trabalho?"));
+let notaFinal = prova + trabalho;
 
-var email = prompt("Digite seu e-mail", "");
-if {
+alert(notaFinal)
 
-    alert("O e-mail " + email + " foi coletado com sucesso");
-} 
-else {
-        alert("O e-mail " + email + " Não foi coletado com sucesso");
-    }
 
